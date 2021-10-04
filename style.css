@@ -1,1 +1,20 @@
-gggg
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  background-color: #5D4954;
+  font-family: "Times New Roman", Times, serif;  
+}
+
+.
+
+
+
+  
