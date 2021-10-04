@@ -22,10 +22,14 @@ nav{
 
 .menu-links{
   display: flex;
-  background-color: red;
   justify-content: space-around;
   width: 30%
 }
+
+.menu-links li{
+  list-style: none;
+}
+  
 
 
 .menu-links a{
@@ -35,6 +39,8 @@ nav{
   font-weight: bold;
   font-size: 14px
 }
+
+
 
 
   
