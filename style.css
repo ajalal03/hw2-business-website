@@ -49,13 +49,14 @@ nav{
 }
 
 .sfooter {
-	position: sticky;
-	left: 0;
-	bottom: 0;
+	position: relative;
 	width: 100%;
+	margintop: -200px;
+	height: 200px;
 	background-color: black;
 	color: white;
 	text-align: center;
+	
 }
 
 
